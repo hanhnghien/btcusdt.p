@@ -31,10 +31,10 @@ Technical Analysis Library
 Test metrics
 
     {
-        "total_return": 0.24606502056121826,
-        "max_drawdown": 0.4237450957298279,
-        "volatility": 0.9314450373646528,
-        "sharpe": 1.0956478015720255
+        "total_return": 0.9482413530349731,
+        "max_drawdown": 0.5274266004562378,
+        "volatility": 0.9283200126439233,
+        "sharpe": 2.401767690274898
     }
 
 TODO
